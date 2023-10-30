@@ -15,6 +15,8 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
 gem "jekyll-remote-theme"
+
+gem "faraday-retry"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
