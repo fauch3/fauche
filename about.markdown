@@ -4,8 +4,7 @@ title: A propos
 permalink: /about/
 ---
 
-J'ai fait ce site pour me familiariser avec la sainte trinité html css JavaScript et financer mon addiction aux donuts grâce aux 1.50 euros mensuels
-que j'espère gagner avec les liens affiliés.
+J'ai fait ce site pour me familiariser avec la sainte trinité Html Css JavaScript.
 
 J'ai utilisé Jekyll, comme ces messieurs le disent si bien :
 
