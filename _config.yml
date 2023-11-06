@@ -21,7 +21,7 @@
 title: Fauché!
 email: fauch3contact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Fauché! est mon classement de petits trucs pour arrondir ses fins de mois. Dernière mise à jour le 04/11/23.
+  Fauché! est mon classement de petits trucs pour arrondir ses fins de mois. Dernière mise à jour le 06/11/23.
 baseurl: "/fauche" # the subpath of your site, e.g. /blog
 url: "https://fauch3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Fauché!
